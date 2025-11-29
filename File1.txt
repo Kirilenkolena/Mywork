@@ -2,3 +2,4 @@ Name Olena
 Lastname Kyrylenko
 Age 50
 Place of residence Ukraine
+Favorite animal cat
